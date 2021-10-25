@@ -1,7 +1,3 @@
-# Alex_Sour
+🛠️ <b>Game developer and 3D animator</b>
 
-    Activating cube...
-    Success!
-    S:/
-
- sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour Asour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour lsour osour rsour esour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour eour esour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour xour xsour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour _our _sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour Sour Ssour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour oour osour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour uour usour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour rour rsour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour sour 
+👋 I'm Alex. I make software, games, and a series named `Newverse`.
