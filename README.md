@@ -1,4 +1,5 @@
-## 🛠️ **Game developer and 3D animator**
+<img src="https://user-images.githubusercontent.com/52638772/144771702-bdb53ed7-bcb4-4196-8dd8-77a136bdbd47.png" alt="Alex_Sour's profile picture" height="60">
+<h3>🛠️ <b>Game developer and 3D animator</b></h3>
 
 👋 I'm Alex. I make software, games, and a series named **Newverse**.
 
