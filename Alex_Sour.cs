@@ -47,7 +47,7 @@ public class Alex_Sour : MonoBehaviour
         {
             Dream dream = new Dream();
 
-            if (Random.Range(0, 50) == 0) // I almost always forget my dreams :(
+            if (Random.Range(0, 500) == 0) // I almost always forget my dreams :(
             {
                 shortTermMemory.Add(dream);
             }
