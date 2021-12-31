@@ -1,22 +1,11 @@
 using Human;
+using UnityEngine;
 
-namespace Alex
+public class Alex_Sour : MonoBehaviour
 {
-    static class Program
+    public UnityGame pylonPixel;
+    void Update()
     {
-        static void Main(string[] args)
-        {
-            try
-            {
-                while(true)
-                {
-                   Watch("https://www.youtube.com/");
-                }
-            }
-            catch(Exception e)
-            {
-                // do nothing
-            }
-        }
+        WorkOnUnityGame(pylonPixel);
     }
 }
