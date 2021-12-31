@@ -7,4 +7,6 @@ I am part of a game development group named **Carroted**, and have 2 games in pr
 
 You can contact me on **Discord** at **`Alex_Sour#8061`**, or by **email** at **`alexsour@protonmail.com`**.
 
+My source code can be found [here](https://github.com/Alex-Sour/Alex-Sour/blob/main/Alex_Sour.cs).
+
 https://carroted.ca/
