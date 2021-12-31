@@ -13,6 +13,7 @@ public class Alex_Sour : MonoBehaviour
     private bool isSleeping = false;
     public GameObject monitor;
     public ChromiumWebBrowser browser;
+    public UnityHub hub;
 
     void Update()
     {
@@ -29,18 +30,22 @@ public class Alex_Sour : MonoBehaviour
 
         if (!isSleeping)
         {
+            foreach (Eye eye in eyes)
+            {
+                eye.LookAt(monitor.transform);
+            }
+
             if (Random.Range(0, 2) == 0) // 50% chance of working on Pylon Pixel 2
             {
-                WorkOnUnityGame(pylonPixel2);
+                if(!pylonPixel2.isOpenInUnityEditor)
+                {
+                    hub.Open(pylonPixel2);
+                }
+                pylonPixel2.WorkOn();
             }
             else // 50% chance of watching YouTube
             {
                 browser.webURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-
-                foreach (Eye eye in eyes)
-                {
-                    eye.LookAt(monitor.transform);
-                }
             }
         }
         else
