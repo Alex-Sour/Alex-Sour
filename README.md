@@ -3,7 +3,7 @@
 
 👋 I'm Alex. I make software, games, and a series named **Newverse**.
 
-I have a game on Google Play named Pylon Pixel!
+I have a game on Google Play named [Pylon Pixel](https://play.google.com/store/apps/details?id=ca.Carroted.PylonPixel)!
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="120">](https://play.google.com/store/apps/details?id=ca.Carroted.PylonPixel)
 
