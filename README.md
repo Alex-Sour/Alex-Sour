@@ -1,9 +1,13 @@
-<img src="https://user-images.githubusercontent.com/52638772/144771702-bdb53ed7-bcb4-4196-8dd8-77a136bdbd47.png" alt="Alex_Sour's profile picture" height="60">
+<img src="https://i.imgur.com/94pdgSE.png" alt="Alex_Sour's profile picture" height="60">
 <h3>🛠️ <b>Game developer and 3D animator</b></h3>
 
 👋 I'm Alex. I make software, games, and a series named **Newverse**.
 
-I am part of a game development group named **Carroted**, and have 2 games in production. One is named **Pylon Pixel**, and the other is currently unnamed.
+I have a game on Google Play named Pylon Pixel!
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="100">](https://play.google.com/store/apps/details?id=ca.Carroted.PylonPixel)
+
+I am part of a game development group named **Carroted**, and have 2 games in production. One is named **Pylon Pixel 2**, and the other is currently unnamed.
 
 You can contact me on **Discord** at **`Alex_Sour#8061`**, or by **email** at **`alexsour@protonmail.com`**.
 
