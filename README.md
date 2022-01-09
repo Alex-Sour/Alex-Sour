@@ -5,7 +5,7 @@
 
 I have a game on Google Play named [Pylon Pixel](https://play.google.com/store/apps/details?id=ca.Carroted.PylonPixel)!
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="120">](https://play.google.com/store/apps/details?id=ca.Carroted.PylonPixel)
+[<img src="https://i.imgur.com/EnnoIJb.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=ca.Carroted.PylonPixel)
 
 [<img src="https://i.imgur.com/lVk7hmb.png" alt="Join the Pylon Pixel Discord server" height="120">](https://discord.gg/AaAWXPgtC3)
 
