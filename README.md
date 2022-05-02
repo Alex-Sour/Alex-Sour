@@ -1,5 +1,9 @@
 <img src="https://media.giphy.com/media/b7iUupW4IjRod45VP7/giphy.gif" alt="Alex_Sour's profile picture" height="60">
-<h3>🛠️ <b>Game developer and 3D animator</b></h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-sour&label=Profile%20views&color=0e75b6&style=flat" alt="alex-sour" /> </p>
+
+
+<h3>🛠️ <b>Game and web developer</b></h3>
 
 👋 I'm Alex. I make software, games, and more.
 
